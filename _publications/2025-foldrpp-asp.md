@@ -1,7 +1,7 @@
 ---
 title: "Interpretable Hybrid Machine Learning Models Using FOLD-R++ and Answer Set Programming"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publications/2025-foldrpp-asp/
 date: 2025-06-30
 venue: "arXiv"
