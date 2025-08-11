@@ -22,7 +22,7 @@ repository               : "sannewielinga/sannewielinga.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/linkedin.jpg"
+  avatar           : "images/linkedin.jpg"
   name             : "Sanne Wielinga"
   pronouns         : # example: "she/her"  
   bio              : "AI Research Engineer. Working on LLM hallucination detection and interpretable hybrid ML."
@@ -139,12 +139,11 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "/images/profile.jpg"
+og_image                 :  "images/linkedin.jpg"
 og_description           :  "AI Research Engineer & MSc AI — interests in LLM safety, hallucination detection, hybrid neuro-symbolic methods, and MLOps."
-# For specifying social profiles
+# For specifying social profilescategory_ar
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:x.html ~> path: /
-category_archive:
+social:
   type: Person
   name: "Sanne Wielinga"
   links:
@@ -247,7 +246,9 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      related: truehttps://sannewielinga.github.io/images/linkedin.jpg
+
+
   # _pages
   - scope:
       path: ""
@@ -263,7 +264,9 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: truehttps://sannewielinga.github.io/images/linkedin.jpg
+
+
   # _publications
   - scope:
       path: ""
